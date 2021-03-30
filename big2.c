@@ -1,7 +1,7 @@
 // C program to find the greatest of two numbers
 
 #include<stdio.h>
-int main()
+void big2()
 {
 //Fill the code
 int num1, num2;
@@ -14,5 +14,5 @@ else
 {
 printf(“%d is greater”,num2);
 }
-return 0;
+//return 0;
 }
